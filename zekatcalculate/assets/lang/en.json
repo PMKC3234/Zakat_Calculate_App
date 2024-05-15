@@ -1,0 +1,77 @@
+{
+    "what_is_zakat?": "What is Zakat?",
+    "zakat_description-1": "Zakat is an act of worship and a social welfare system in Islam, where individuals who possess wealth are obligated to give a certain percentage of it to those in need.",
+    
+    "the_importance_of_zakat": "The Importance of Zakat",
+    "zakat_description-2": "Zakat is an expression of sharing, mutual aid, and social solidarity for believers. It is one of the five pillars of Islam and holds great importance for believers.",
+    
+    "to_whom_is_zakat_given?": "To Whom is Zakat Given?",
+    "zakat_description-3": "Zakat is given to those in need, the poor, orphans, widows, debtors, and others in dire circumstances. The condition for giving zakat is that these individuals must be in need of assistance.",
+    
+    "how_is_zakat_calculated?": "How is Zakat Calculated?",
+    "zakat_description-4": "Zakat is typically calculated as a certain percentage of wealth. It is calculated based on the values of various assets such as gold, silver, money, and commercial goods, and a specific percentage of zakat is given.",
+    
+    "the_time_of_giving_zakat": "The Time of Giving Zakat",
+    "zakat_description-5": "Zakat is given at specific times according to the Islamic calendar. It is generally suitable to give zakat during the month of Ramadan or at any time of the year.",
+    
+    "virtues_of_zakat": "Virtues of Zakat",
+    "zakat_description-6": "Giving zakat is considered an act of worship for believers and is valued as a spiritual provision. Giving zakat contributes to the spiritual development of individuals and strengthens social solidarity.",
+    
+    "finish": "Finish",
+    "skip": "Skip",
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    "home_title": "Zakat Calculator",
+    "textfield-1": "Accumulation (TL)",
+    "textfield-2": "Accumulation (USD)",
+    "textfield-3": "Accumulation (EUR)",
+    "textfield-4": "Gold Amount (gr)",
+    "textfield-5": "Silver Amount (gr)",
+    "zakat_calculate": "Calculate Zakat",
+    "total_give_zakat": "Total Zakat You Have to Give:",
+    "exchange": "Exchange",
+    "zakat_follows": "Zakat Follows",
+    
+
+    
+    "zakat_name":"Zakat Name",
+    "zakat_empty":"Zakat Name Cannot Be Empty",
+    
+    "zakat_amount":"Zakat Amount",
+    "enter_valid_amount":"Enter a valid amount", 
+    
+    "exchange_rate":"Exchange Rate",
+    "enter_valid_exchange":"Enter a Valid Exchange Rate", 
+    
+    "date":"Enter Date and Time",
+    "date_empty":"Date and Time cannot be left blank",
+
+    "zakat_saved":"Save",
+
+    "zakat_delete":"Are You Sure You Want to Delete?",
+    "yes":"Yes",
+    "no":"No",
+    "regestration_delete":"Registration Deleted",
+    "saved_zakat_info":"Saved Zakat Information",
+    
+    "settings": "Settings",
+    "profile":"Profile",
+    "notifications":"Notifications",
+    "language":"Language",
+    "change_language":"Change Language", 
+    "turkish":"Turkish",
+    "english":"English",
+    "mode":"Mode ",
+    "night":"Night",
+    "light":"Light",
+
+    
+    "logout": "Logout"
+}

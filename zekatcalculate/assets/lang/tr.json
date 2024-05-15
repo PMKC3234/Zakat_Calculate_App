@@ -1,0 +1,76 @@
+{
+    "what_is_zakat?":"Zekat Nedir ?",
+    "zakat_description-1":"Zekat, İslam'da servet sahibi olanların belirli bir yüzdesini ihtiyaç sahiplerine vermesini öngören bir ibadet ve sosyal yardım sistemidir.",
+    
+    "the_importance_of_zakat":"Zekatın Önemi",
+    "zakat_description-2":"Zekat, inananlar için maddi varlıklarını paylaşma, yardımlaşma ve toplumsal dayanışmanın bir ifadesidir. İslam'ın beş şartından biridir ve inananlar için büyük bir öneme sahiptir.",
+    
+    "to_whom_is_zakat_given?":"Zekat Kimlere Verilir?",
+    "zakat_description-3":"Zekat, ihtiyaç sahiplerine, yoksullara, yetimlere, dul kadınlara, borçlulara ve diğer zor durumda olanlara verilir. Bu kişilerin yardıma muhtaç olmaları zekatın verilme şartıdır.",
+    
+    "how_is_zakat_calculated?":"Zekat Nasıl Hesaplanır?",
+    "zakat_description-4":"Zekat genellikle mal varlığının belirli bir yüzdesi olarak hesaplanır. Altın, gümüş, para, ticari mallar gibi çeşitli varlıkların değerleri üzerinden hesaplanır ve belirli bir oranda zekat verilir.",
+    
+    "the_time_of_giving_zakat":"Zekatın Verilme Zamanı",
+    "zakat_description-5":"Zekat, İslam takvimine göre belirli zamanlarda verilir. Genellikle Ramazan ayı boyunca veya yılın herhangi bir zamanında zekat verilmesi uygundur.",
+   
+    "virtues_of_zakat":"Zekatın Faziletleri",
+    "zakat_description-6":"Zekat vermek, inananlar için bir ibadet olarak kabul edilir ve manevi bir rızık olarak değerlendirilir. Zekatın verilmesi, bireylerin manevi gelişimine katkı sağlar ve toplumsal dayanışmayı güçlendirir.",
+
+    "finish":"Bitir",
+    "skip":"Geç",
+
+   
+   
+   
+   
+    "home_title": "Zekat Hesaplayıcı",
+    "textfield-1": "Birikimleriniz (TL)",
+    "textfield-2": "Birikimleriniz (USD)",
+    "textfield-3": "Birikimleriniz (EUR)",
+    "textfield-4":"Altın Miktarı (gr)",
+    "textfield-5":"Gümüş Miktarı (gr)",
+    "zakat_calculate":"Zekat Hesapla",
+    "total_give_zakat":"Toplam Vermeniz Gereken Zekat",
+    "exchange":"Döviz",
+    "zakat_follows":"Zekat Takip",
+    
+    "zakat_name":"Zekat Adı",
+    
+    "zakat_empty":"Zekat Adı Boş Olamaz",
+    "zakat_amount":"Zekat Miktarı",
+    "enter_valid_amount":"Geçerli Bir Miktar Giriniz",    
+    
+    "exchange_rate":"Döviz Kuru",
+    "enter_valid_exchange":"Geçerli Bir Döviz Kuru Giriniz",  
+
+    "date":"Tarih Ve Saat Giriniz",
+    "date_empty":"Tarih Ve Saat Boş Bırakılamaz",
+
+    "zakat_saved":"Kaydet",
+
+    "zakat_delete":"Silmek İstediğinize Emin Misiniz?",
+    "yes":"Evet",
+    "no":"Hayır",
+    "regestration_delete":"Kayıt Silindi",
+    "saved_zakat_info":"Kaydedilen Zekat Bilgileri",
+    
+    "settings":"Ayarlar",
+    "profile":"Profil",
+    "notifications":"Bildirimler",
+    "language":"Dil",
+    "change_language":"Dil Değiştir",  
+    "turkish":"Türkçe",
+    "english":"İngilizce",
+    "mode":"Mod ",
+    "night":"Gece",
+    "light":"Gündüz",
+
+
+
+
+
+    "logout":"Çıkış Yap"
+
+    
+}
