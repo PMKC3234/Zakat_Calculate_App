@@ -5,7 +5,6 @@ import '../core/localizations.dart';
 import '../widgets/zakat_entry_form.dart'; // Eklediğimiz yeni widget'ı içeri aktarıyoruz
 
 import '../widgets/myappbar.dart';
-import '../widgets/mybottomnavbar.dart';
 
 class ZakatScreen extends StatefulWidget {
   const ZakatScreen({Key? key}) : super(key: key);
@@ -19,11 +18,10 @@ class _ZakatScreenState extends State<ZakatScreen> {
   Widget build(BuildContext context) {
     return SafeArea(
       child: Scaffold(
-        backgroundColor: Theme.of(context).backgroundColor,
+        //backgroundColor: Theme.of(context).backgroundColor,
         appBar: MyAppBar(title: AppLocalizations.of(context)
                           .getTranslate("zakat_follows")),
         body: ZakatEntryForm(), // Yeni eklediğimiz form widget'ını kullanıyoruz
-        bottomNavigationBar: MyBottomNavBar(),
       ),
     );
   }

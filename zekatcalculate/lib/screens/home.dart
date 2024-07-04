@@ -7,7 +7,6 @@ import 'package:zekatcalculate/screens/exchange.dart';
 import 'package:zekatcalculate/screens/login.dart';
 import 'package:zekatcalculate/screens/settings.dart';
 import 'package:zekatcalculate/screens/zakat_follow_up.dart';
-import 'package:zekatcalculate/widgets/mybottomnavbar.dart';
 import '../core/localizations.dart';
 
 class HomeScreen extends StatefulWidget {
@@ -34,7 +33,8 @@ class _HomeScreenState extends State<HomeScreen> {
       child: AdvancedDrawer(
         controller: _advancedDrawerController,
         child: Scaffold(
-          backgroundColor: Theme.of(context).backgroundColor,
+          backgroundColor: Theme.of(context).scaffoldBackgroundColor,
+
           appBar: AppBar(
             title: Text(AppLocalizations.of(context).getTranslate("home_title")),
             centerTitle: true,
@@ -167,10 +167,9 @@ class _HomeScreenState extends State<HomeScreen> {
               ),
             ),
           ),
-          bottomNavigationBar: MyBottomNavBar(),
         ),
         drawer: Container(
-          color: Theme.of(context).backgroundColor,
+          color: Theme.of(context).scaffoldBackgroundColor,
           width: MediaQuery.of(context).size.width * 0.65,
           child: ListView(
             padding: EdgeInsets.zero,

@@ -229,8 +229,7 @@ Widget SignInButton(BuildContext context) {
       },
       child: Text(
         'Giriş Yap',
-        style: Theme.of(context).textTheme.button!.copyWith(
-            fontSize: 16, fontWeight: FontWeight.bold, color: Colors.white),
+        //style: Theme.of(context).textTheme.button!.copyWith(fontSize: 16, fontWeight: FontWeight.bold, color: Colors.white),
       ),
       style: ElevatedButton.styleFrom(
         backgroundColor: Theme.of(context).primaryColor, // Tema rengi, // Buton rengi

@@ -4,7 +4,6 @@ import 'package:flutter/material.dart';
 import 'package:gap/gap.dart';
 
 import '../widgets/myappbar.dart';
-import '../widgets/mybottomnavbar.dart';
 
 class ProfileScreen extends StatefulWidget {
   const ProfileScreen({Key? key}) : super(key: key);
@@ -18,7 +17,7 @@ class _ProfileScreenState extends State<ProfileScreen> {
   Widget build(BuildContext context) {
     return SafeArea(
       child: Scaffold(
-        backgroundColor: Theme.of(context).backgroundColor,
+        //backgroundColor: Theme.of(context).backgroundColor,
         appBar: MyAppBar(title: "Profil"),
         body: Padding(
           padding: const EdgeInsets.all(50.0),
@@ -120,7 +119,6 @@ class _ProfileScreenState extends State<ProfileScreen> {
             ),
           ),
         ),
-        bottomNavigationBar: MyBottomNavBar(),
       ),
     );
   }

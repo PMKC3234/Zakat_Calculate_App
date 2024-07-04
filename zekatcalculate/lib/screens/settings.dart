@@ -8,7 +8,6 @@ import 'package:zekatcalculate/screens/profile.dart';
 import '../bloc/client/client_cubit.dart';
 import '../core/localizations.dart';
 import '../widgets/myappbar.dart';
-import '../widgets/mybottomnavbar.dart';
 
 class SettingsScreen extends StatelessWidget {
   const SettingsScreen({Key? key}) : super(key: key);
@@ -21,7 +20,6 @@ class SettingsScreen extends StatelessWidget {
           title: AppLocalizations.of(context).getTranslate("settings"),
         ),
         body: SettingsList(),
-        bottomNavigationBar: MyBottomNavBar(),
       ),
     );
   }

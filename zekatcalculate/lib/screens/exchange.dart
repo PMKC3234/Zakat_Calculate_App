@@ -4,7 +4,6 @@ import 'package:flutter/material.dart';
 import '../core/localizations.dart';
 import '../services/api.dart';
 import '../widgets/myappbar.dart';
-import '../widgets/mybottomnavbar.dart';
 
 class ExchangeScreen extends StatefulWidget {
   const ExchangeScreen({Key? key}) : super(key: key);
@@ -45,7 +44,6 @@ class _ExchangeScreenState extends State<ExchangeScreen> {
             }
           },
         ),
-        bottomNavigationBar: MyBottomNavBar(),
       ),
     );
   }
